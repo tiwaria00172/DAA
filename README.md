@@ -22,4 +22,4 @@ queen
 Last check point
 
 
-Ending this repository
+Ending this repository.

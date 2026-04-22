@@ -14,6 +14,8 @@ Grph colouring
 sum of subset
 queen 
 
+obst1, obst2
+
 
 4th checkpoint
 
